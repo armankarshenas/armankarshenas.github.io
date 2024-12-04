@@ -72,3 +72,31 @@ h2, h3 {
 .publication-entry {
     margin-bottom: 15px; /* Space between publication entries */
 }
+details summary {
+  cursor: pointer;
+  font-weight: bold;
+  padding: 10px;
+}
+
+details p {
+  padding-left: 20px;
+}
+
+details ul {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+details li {
+  padding: 5px 0;
+}
+
+details li a {
+  text-decoration: none;
+  color: #0066cc;
+}
+
+details li a:hover {
+  text-decoration: underline;
+}
+
