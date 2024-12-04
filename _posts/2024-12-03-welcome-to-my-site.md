@@ -3,6 +3,7 @@ layout: post
 title: "My First Post"
 date: 2024-12-03
 excerpt: "This is a brief summary of my first blog post. I'll discuss some of my recent research and discoveries in genomics and machine learning."
+long_description: "In this blog post, I introduce my recent research at UC Berkeley, where I am applying machine learning models to genomic data to predict enhancer functions in fruit flies. Enhancers are regulatory DNA sequences that control gene transcription, and understanding their function is crucial for advancing gene expression knowledge. Using convolutional neural networks (CNNs), I’m developing computational models to predict enhancer activity, offering more efficient analysis of large genomic datasets. Stay tuned for future updates on the intersection of genomics and AI."
 categories: [research, genomics, machine learning]
 tags: [genomics, machine learning, AI]
 ---
