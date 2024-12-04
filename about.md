@@ -22,10 +22,10 @@ I have had the opportunity to work in both academia and industry, bridging the g
 
 My research spans several areas of biophysics, machine learning, and computational biology, with an emphasis on applying AI models to biological datasets.
 
-- **Graduate Student Researcher** | UC Berkeley (May 2022 – Dec 2024)  
+- **Graduate Student Researcher** | *UC Berkeley* (May 2022 – Dec 2024)  
   Researching genome regulation from the sequence space of enhancers in [Prof. Garcia’s lab](http://garcialab.berkeley.edu), combining computational and experimental methods.
 
-- **PhD Rotation Projects** | UC Berkeley
+- **PhD Rotation Projects** | *UC Berkeley*
   
   Developed assays for viral detection of influenza strains and genome re-assortment in [Fletcher’s lab](https://fletchlab.berkeley.edu).  
   Created computational pipelines for protein folding studies in the [Marqusee lab](https://zebra.berkeley.edu). 
@@ -74,17 +74,16 @@ My research spans several areas of biophysics, machine learning, and computation
 
 ### Teaching Experience
 
--  **Fall 2023 [Quantitative Biology Bootcamp](https://mcb.berkeley.edu/grad/quantitative-biology-bootcamp/2023)** -- Instructor & Teaching Assistant | *UC Berkeley*
--  **Fall 2022 [Quantitative Biology Bootcamp](https://mcb.berkeley.edu/grad/quantitative-biology-bootcamp/2022)** -- Instructor & Teaching Assistant | *UC Berkeley*
--  **Spring 2022 [Physics 8B](https://classes.berkeley.edu/content/physics-8b)** -- Instructor & Teaching Assistant | *UC Berkeley*
--  **M/L/E 2020-2021 [Mathematical Biology](https://www.biology.cam.ac.uk/undergrads/nst/courses/mb)** -- Instructor & Supervisor | *Wolfson college, Trinity Hall, Hughes Hall, University of Cambridge*
+- **Fall 2023 [Quantitative Biology Bootcamp](https://mcb.berkeley.edu/grad/quantitative-biology-bootcamp/2023)** -- Instructor & Teaching Assistant | *UC Berkeley*
+- **Fall 2022 [Quantitative Biology Bootcamp](https://mcb.berkeley.edu/grad/quantitative-biology-bootcamp/2022)** -- Instructor & Teaching Assistant | *UC Berkeley*
+- **Spring 2022 [Physics 8B](https://classes.berkeley.edu/content/physics-8b)** -- Instructor & Teaching Assistant | *UC Berkeley*
+- **M/L/E 2020-2021 [Mathematical Biology](https://www.biology.cam.ac.uk/undergrads/nst/courses/mb)** -- Instructor & Supervisor | *Wolfson college, Trinity Hall, Hughes Hall, University of Cambridge*
 -  **Lent 2021 Computational Genomics** -- Instructor & Teaching Assistant | *Isaac Newton Mathematics Institute, University of Cambridge* 
 
 ### Volunteer Work
 
 - **Volunteer Math Teacher at San Quentin Prison** (May 2024 - Aug 2024)  
-- **President, Iranian Student Association at UC Berkeley** (Aug 2021 – Mar 2024)  
-  Organizing academic, social, and professional events for Iranian graduate students.  
-  [ISAA](https://callink.berkeley.edu/organization/iranianstudentallianceinamerica)
+- **President, Iranian Student Association at UC Berkeley [ISAA](https://callink.berkeley.edu/organization/iranianstudentallianceinamerica)** (Aug 2021 – Mar 2024)  
+  Organizing academic, social, and professional events for Iranian graduate students.
 
 
