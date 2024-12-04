@@ -25,10 +25,10 @@ My research spans several areas of biophysics, machine learning, and computation
 - **Graduate Student Researcher** | UC Berkeley (May 2022 – Dec 2024)  
   Researching genome regulation from the sequence space of enhancers in [Prof. Garcia’s lab](http://garcialab.berkeley.edu), combining computational and experimental methods.
 
-- **PhD Rotation Projects** | UC Berkeley  
-  - Developed assays for viral detection of influenza strains and genome re-assortment in [Fletcher’s lab](https://fletchlab.berkeley.edu).  
-  - Created computational pipelines for protein folding studies in the [Marqusee lab](https://zebra.berkeley.edu).  
-  - Studied transcription variability between sister chromatin in developing *D. melanogaster* embryos in [Garcia lab](http://garcialab.berkeley.edu).
+- **PhD Rotation Projects** | UC Berkeley
+  Developed assays for viral detection of influenza strains and genome re-assortment in [Fletcher’s lab](https://fletchlab.berkeley.edu).  
+  Created computational pipelines for protein folding studies in the [Marqusee lab](https://zebra.berkeley.edu). 
+  Studied transcription variability between sister chromatin in developing *D. melanogaster* embryos in [Garcia lab](http://garcialab.berkeley.edu).
 
 - **MPhil Project** | University of Cambridge (Oct 2020 – Jul 2021)  
   Developed a novel deep learning pipeline to extract morphological measurements from micro-CT scans and conducted genome-wide association tests on *cichlid* fish samples in [Prof. Richard Durbin's group](https://www.gen.cam.ac.uk/research-groups/research-groups/durbin). 
@@ -76,7 +76,7 @@ My research spans several areas of biophysics, machine learning, and computation
 - **Fall 2023 [Quantitative Biology Bootcamp](https://mcb.berkeley.edu/grad/quantitative-biology-bootcamp/2023)** -- Instructor & Teaching Assistant | *UC Berkeley*  
 - **Fall 2022 [Quantitative Biology Bootcamp](https://mcb.berkeley.edu/grad/quantitative-biology-bootcamp/2022)** -- Instructor & Teaching Assistant | *UC Berkeley*  
 - **Spring 2022 [Physics 8B](https://classes.berkeley.edu/content/physics-8b)** -- Instructor & Teaching Assistant | *UC Berkeley*  
-- **Michaelmas/Lent/Easter 2020-2021 [Mathematical Biology](https://www.biology.cam.ac.uk/undergrads/nst/courses/mb)** -- Instructor & Supervisor | *Wolfson college, Trinity Hall, Hughes Hall, University of Cambridge*  
+- **M/L/E 2020-2021 [Mathematical Biology](https://www.biology.cam.ac.uk/undergrads/nst/courses/mb)** -- Instructor & Supervisor | *Wolfson college, Trinity Hall, Hughes Hall, University of Cambridge*  
 - **Lent 2021 Computational Genomics** -- Instructor & Teaching Assistant | *Isaac Newton Mathematics Institute, University of Cambridge* 
 
 ### Volunteer Work
@@ -88,4 +88,4 @@ My research spans several areas of biophysics, machine learning, and computation
 
 ### Contact
 
-For a full list of my professional accomplishments and publications, please refer to my [resume](asset/documents/Arman_Karshenas_resume.pdf).
+For a full list of my professional accomplishments and publications, please refer to my [resume](assets/documents/Arman_Karshenas_resume.pdf).
