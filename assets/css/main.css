@@ -17,6 +17,15 @@ header {
     padding: 10px 20px; /* Reduced padding */
 }
 
+.header-content {
+    display: flex;
+    align-items: center; /* Aligns items vertically */
+}
+
+.header-content h1 {
+    margin: 0 20px; /* Space between title and photo */
+}
+
 header a {
     color: #ffffff;
     text-decoration: none;
@@ -44,7 +53,7 @@ header .profile-photo {
 
 footer {
     padding: 20px;
-    background-color: #005a87; /* Footer background color */
+    background-color: #002147; /* Footer background color */
     color: white;
     text-align: center;
 }
