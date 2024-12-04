@@ -1,17 +1,27 @@
-/* 1. Non-clicked hyperlinks (default color) */
+/* Make all hyperlinks the same color */
 a {
-    color: #002147; /* Oxford Blue */
-    text-decoration: none;
+    color: #e8491d; /* Orange color for all links */
+    text-decoration: none; /* Remove underline */
 }
 
 a:hover {
-    color: #e8491d; /* Highlight color on hover (same as nav hover) */
-    text-decoration: underline; /* Optional, can add underline on hover */
+    color: #e8491d; /* Keep the orange color on hover */
+    text-decoration: underline; /* Optional underline effect on hover */
 }
 
-/* 2. Visited links (same color as the nav hover) */
+/* Ensure visited links also have the same orange color */
 a:visited {
-    color: #e8491d; /* Same as nav hover color */
+    color: #e8491d; /* Same as the hover color */
+}
+
+/* Header and Footer links */
+header a, footer a {
+    color: #e8491d; /* Orange color for links in header and footer */
+    text-decoration: none; /* Remove underline in header and footer */
+}
+
+header a:hover, footer a:hover {
+    text-decoration: underline; /* Underline links on hover in header and footer */
 }
 
 /* Existing Styles */
@@ -65,7 +75,7 @@ header li {
 }
 
 header a {
-    color: #ffffff; /* White text for links */
+    color: #e8491d; /* Orange text for links */
     text-decoration: none;
 }
 
