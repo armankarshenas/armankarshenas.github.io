@@ -4,7 +4,7 @@ title: Arman Karshenas, Ph.D.
 ---
 
 <div style="display: flex; align-items: center; width: 100%;">
-    <img src="{{ site.baseurl }}/assets/images/headshot.jpg" alt="Dr. Arman Karshenas" class="profile-photo" style="width: 120px; height: 120px; border-radius: 50%; margin-right: 20px;">
+    <img src="{{ site.baseurl }}/assets/images/headshot.jpg" alt="Dr. Arman Karshenas" class="profile-photo" style="width: 170px; height: 170px; border-radius: 50%; margin-right: 20px;">
     <div>
         <h1>Welcome to my Personal Webpage!</h1>
         <p>
@@ -13,20 +13,24 @@ title: Arman Karshenas, Ph.D.
     </div>
 </div>
 
-## Education
+## Recent Publications
+Here are the most recent publications I have authored:
 
-- **PhD in Biophysics** - UC Berkeley  
-- **MPhil in Biophysics** - University of Cambridge  
-- **BA in Biophysics** - University of Oxford  
+{% for publication in site.data.publications limit:3 %}
+- **{{ publication.title }}**  
+  *{{ publication.authors }}*  
+  *Published in {{ publication.journal }}*  
+  [Link to publication]({{ publication.url }})
+{% endfor %}
 
-## Research Interests
+## Recent Courses
+Below are the courses I have recently taught:
 
-My research spans a range of topics within **biophysics**, **machine learning**, **data science**, and **life sciences**. Some of my key areas of focus include:
-
-- **Computational biology and genomics**
-- **Biophysics and molecular dynamics**
-- **Machine learning for life sciences**
-- **Life sciences consulting**
+{% for course in site.data.courses limit:3 %}
+- **{{ course.title }}**  
+  *{{ course.institution }}*  
+  *{{ course.year }}*
+{% endfor %}
 
 ## Contact
 
