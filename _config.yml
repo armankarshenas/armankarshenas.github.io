@@ -1,14 +1,66 @@
-title: My GitHub Pages Site
-description: Welcome to my awesome website!
-theme: minima
+# Site settings
+title: Dr. Arman Karshenas
+description: Personal webpage of Dr. Arman Karshenas - Research, Teaching, and Publications
+author: Arman Karshenas
+email: karshenas@berkeley.edu
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Social links
-twitter_username: yourusername
-github_username:  yourusername
+# Social and professional links
+github_username: armankarshenas
+linkedin_username: arman-karshenas-ph-d-283a3990
+google_scholar: viit6XUAAAAJ
+orcid: 0000-0001-5477-1861
+researchgate: Arman Karshenas
 
 # Build settings
 markdown: kramdown
+permalink: /:title/
+
+# Theme settings
+theme: minima  # You can change this to another theme if preferred
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Custom collections for your content
+collections:
+  papers:
+    output: true
+    permalink: /:collection/:name/
+  teaching:
+    output: true
+    permalink: /:collection/:name/
+
+# Default layouts for different types of content
+defaults:
+  - scope:
+      path: ""
+      type: "papers"
+    values:
+      layout: "paper"
+  - scope:
+      path: ""
+      type: "teaching"
+    values:
+      layout: "course"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Navigation
+header_pages:
+  - about.md
+  - publications.md
+  - teaching.md
+  - resume.md
+
+# Customization
+show_excerpts: true  # Set to false if you don't want excerpts on the homepage
+
+# Additional settings
+timezone: America/Los_Angeles  # Adjust to your timezone
+lang: en  # Set your preferred language
