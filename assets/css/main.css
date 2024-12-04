@@ -1,3 +1,20 @@
+/* 1. Non-clicked hyperlinks (default color) */
+a {
+    color: #002147; /* Oxford Blue */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e8491d; /* Highlight color on hover (same as nav hover) */
+    text-decoration: underline; /* Optional, can add underline on hover */
+}
+
+/* 2. Visited links (same color as the nav hover) */
+a:visited {
+    color: #e8491d; /* Same as nav hover color */
+}
+
+/* Existing Styles */
 body {
     font-family: 'Roboto', sans-serif; /* Change to your preferred font */
     line-height: 1.6;
@@ -10,6 +27,7 @@ body {
     width: 70%; /* Set content width to 70% */
     margin: auto; /* Center align */
 }
+
 header {
     background-color: #002147; /* Oxford Blue */
     color: white;
@@ -54,6 +72,7 @@ header a {
 header a:hover {
     color: #e8491d; /* Highlight color on hover */
 }
+
 /* Footer Styles */
 footer {
     padding: 20px;
@@ -72,6 +91,7 @@ h2, h3 {
 .publication-entry {
     margin-bottom: 15px; /* Space between publication entries */
 }
+
 details summary {
   cursor: pointer;
   font-weight: bold;
@@ -99,4 +119,3 @@ details li a {
 details li a:hover {
   text-decoration: underline;
 }
-
