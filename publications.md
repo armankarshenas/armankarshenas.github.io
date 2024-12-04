@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
 ## Journal Articles
 [List your journal articles here]
 
