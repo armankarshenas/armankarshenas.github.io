@@ -12,8 +12,8 @@ permalink: /publications/
       <p>
         <strong>{{ publication.authors }}</strong> ({{ publication.year }}). 
         <em>{{ publication.title }}</em>. <i>{{ publication.journal }}</i>
-        {% if publication.doi %}, <a href="https://doi.org/{{ publication.doi }}">[DOI: {{ publication.doi }}]</a>{% endif %}
-        {% if publication.url %}, <a href="{{ publication.url }}">[Link]</a>{% endif %}
+        {% if publication.doi %}, <a href="https://doi.org/{{ publication.doi }}">doi: {{ publication.doi }}</a>{% endif %}
+        {% if publication.url %}, <a href="{{ publication.url }}">Link</a>{% endif %}
       </p>
     </li>
   </ul>
@@ -27,8 +27,8 @@ permalink: /publications/
       <p>
         <strong>{{ conference.authors }}</strong> ({{ conference.year }}). 
         "<em>{{ conference.title }}</em>." <i>{{ conference.conference_name }}</i>
-        {% if conference.doi %}, <a href="https://doi.org/{{ conference.doi }}">[DOI: {{ conference.doi }}]</a>{% endif %}
-        {% if conference.url %}, <a href="{{ conference.url }}">[Link]</a>{% endif %}
+        {% if conference.doi %}, <a href="https://doi.org/{{ conference.doi }}"> doi: {{ conference.doi }}</a>{% endif %}
+        {% if conference.url %}, <a href="{{ conference.url }}">Link</a>{% endif %}
       </p>
     </li>
   </ul>
@@ -42,8 +42,8 @@ permalink: /publications/
       <p>
         <strong>{{ chapter.authors }}</strong> ({{ chapter.year }}). 
         "<em>{{ chapter.title }}</em>." <i>{{ chapter.book_title }}</i>
-        {% if chapter.doi %}, <a href="https://doi.org/{{ chapter.doi }}">[DOI: {{ chapter.doi }}]</a>{% endif %}
-        {% if chapter.url %}, <a href="{{ chapter.url }}">[Link]</a>{% endif %}
+        {% if chapter.doi %}, <a href="https://doi.org/{{ chapter.doi }}">doi: {{ chapter.doi }}</a>{% endif %}
+        {% if chapter.url %}, <a href="{{ chapter.url }}">Link</a>{% endif %}
       </p>
     </li>
   </ul>
