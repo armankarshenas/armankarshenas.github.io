@@ -27,9 +27,10 @@ Here are the most recent publications I have authored:
 Below are the courses I have recently taught:
 
 {% for course in site.data.courses limit:3 %}
-- **{{ course.title }}**  
+- **{{ course.name }}**  
   *{{ course.institution }}*  
   *{{ course.semester }}*
+  [link]{{course.link}}
 {% endfor %}
 
 ## Contact
