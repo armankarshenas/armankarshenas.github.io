@@ -1,5 +1,6 @@
+/* General Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif; /* Change to your preferred font */
     line-height: 1.6;
     color: #333;
     margin: 0;
@@ -7,14 +8,15 @@ body {
 }
 
 .container {
-    width: 80%;
-    margin: auto;
+    width: 70%; /* Set content width to 70% */
+    margin: auto; /* Center align */
 }
 
+/* Header Styles */
 header {
     background-color: #002147; /* Oxford Blue */
     color: white;
-    padding: 10px 20px; /* Reduced padding */
+    padding: 10px 20px; /* Reduced padding for height */
 }
 
 .header-content {
@@ -26,17 +28,22 @@ header {
     margin: 0 20px; /* Space between title and photo */
 }
 
-header a {
-    color: #ffffff;
-    text-decoration: none;
+/* Profile Photo Styles */
+.profile-photo {
+    width: 120px; /* Adjust size as needed */
+    height: 120px; /* Ensure height matches width */
+    border-radius: 50%; /* Makes it a circle */
+    margin-right: 20px; /* Space between photo and title/navigation */
 }
 
+/* Navigation Styles */
 header nav {
     float: right;
 }
 
 header ul {
     list-style-type: none;
+    padding: 0;
 }
 
 header li {
@@ -44,16 +51,34 @@ header li {
     margin-right: 20px;
 }
 
-header .profile-photo {
-    width: 180px; /* Adjust size as needed */
-    height: 180px; /* Ensure height matches width */
-    border-radius: 50%; /* Makes it a circle */
-    margin-right: 20px;
+header a {
+    color: #ffffff; /* White text for links */
+    text-decoration: none;
 }
 
+header a:hover {
+    color: #e8491d; /* Highlight color on hover */
+}
+
+/* Footer Styles */
 footer {
     padding: 20px;
-    background-color: #002147; /* Footer background color */
+    background-color: #002147; /* Oxford Blue */
     color: white;
     text-align: center;
+}
+
+/* Section Styles */
+h2, h3 {
+    border-bottom: 2px solid #e8491d; /* Divider line under headings */
+    padding-bottom: 10px;
+}
+
+.content {
+    margin-top: 20px; /* Space above content sections */
+}
+
+/* Publication Entry Styles */
+.publication-entry {
+    margin-bottom: 15px; /* Space between publication entries */
 }
