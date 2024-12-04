@@ -1,32 +1,17 @@
-/* Make all hyperlinks the same color */
-a {
-    color: #e8491d; /* Orange color for all links */
+/* Navigation Links - White color */
+header a {
+    color: #ffffff; /* White text for links in the navigation bar */
     text-decoration: none; /* Remove underline */
 }
 
-a:hover {
-    color: #e8491d; /* Keep the orange color on hover */
+header a:hover {
+    color: #e8491d; /* Highlight color on hover */
     text-decoration: underline; /* Optional underline effect on hover */
-}
-
-/* Ensure visited links also have the same orange color */
-a:visited {
-    color: #e8491d; /* Same as the hover color */
-}
-
-/* Header and Footer links */
-header a, footer a {
-    color: #e8491d; /* Orange color for links in header and footer */
-    text-decoration: none; /* Remove underline in header and footer */
-}
-
-header a:hover, footer a:hover {
-    text-decoration: underline; /* Underline links on hover in header and footer */
 }
 
 /* Existing Styles */
 body {
-    font-family: 'Roboto', sans-serif; /* Change to your preferred font */
+    font-family: 'Roboto', sans-serif;
     line-height: 1.6;
     color: #333;
     margin: 0;
@@ -75,7 +60,7 @@ header li {
 }
 
 header a {
-    color: #e8491d; /* Orange text for links */
+    color: #ffffff; /* White text for links */
     text-decoration: none;
 }
 
@@ -128,4 +113,24 @@ details li a {
 
 details li a:hover {
   text-decoration: underline;
+}
+.post {
+    margin-bottom: 30px;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.post h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.post p {
+    font-size: 14px;
+    color: #777;
+}
+
+.post .post-content {
+    font-size: 16px;
+    line-height: 1.6;
 }
