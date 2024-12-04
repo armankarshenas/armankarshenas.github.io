@@ -20,7 +20,7 @@ Here are the most recent publications I have authored:
 - **{{ publication.title }}**  
   *{{ publication.authors }}*  
   *Published in {{ publication.journal }}*  
-  [Link to publication]({{ publication.url }})
+  [Link to publication]({{ publication.doi }})
 {% endfor %}
 
 ## Recent Courses
@@ -30,7 +30,7 @@ Below are the courses I have recently taught:
 - **{{ course.name }}**  
   *{{ course.institution }}*  
   *{{ course.semester }}*
-  <a href= {{course.link}}>[link]</a>
+  [Link to course]({{ course.link }})
 {% endfor %}
 
 ## Contact
