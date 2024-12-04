@@ -1,11 +1,24 @@
-- title: "Your Paper Title"
-  authors: "Karshenas, A., et al."
-  journal: "Journal Name"
-  year: 2023
-  doi: "10.1234/example.doi"
+- title: "Targeted mutagenesis of specific genomic DNA sequences in animals for the in vivo generation of variant libraries"
+  authors: "Julia Falo-Sanjuan, Yuliana Diaz-Tirado, Meghan A Turner, Julian Davis, Claudia Medrano, Jenna Haines, Joey McKenna, Arman Karshenas, Michael B Eisen, and Hernan G Garcia"
+  journal: "bioRxiv"
+  year: 2024
+  doi: "https://doi.org/10.1101/2024.06.10.598328"
 
-- title: "Another Paper Title"
-  authors: "Karshenas, A., et al."
-  conference: "Conference Name"
-  year: 2022
-  url: "https://example.com/paper"
+- title: "A deep learning phenotyping method for genetic analysis of 3D micro-CT data"
+  authors: "A Karshenas, T Linderoth, R Zatha, B Rusuwa, and R Durbin"
+  journal: "biorXiv"
+  year: 2023
+  doi: "https://doi.org/10.1101/2023.08.24.554725"
+
+- title: "Lessons for preparedness and reasons for concern from the early COVID-19 epidemic in Iran"
+  authors: "Mahan Ghafari, Bardia Hejazi, Arman Karshenas, Stefan Dascalu, Alireza Kadvidar, Mohammad A Khosravi, Maryam Abbasalipour, Majid Heydari, Sirous Zeinali, Luca Ferretti, Alice Ledda, and Aris Katzoura"
+  journal: "Epidemics"
+  year: 2021
+  doi: "https://doi.org/10.1016/j.epidem.2021.100472"
+
+- title: "Robust estimation of bacterial cell count from optical density"
+  authors: "Jacob Beal, Arman Karshenas et. al"
+  journal: "Nature communications biology"
+  year: 2020
+  doi: "https://doi.org/10.1038/s42003-020-01127-5"
+
