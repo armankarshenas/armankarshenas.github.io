@@ -12,9 +12,9 @@ body {
 }
 
 header {
-    background-color: #005a87; /* Header background color */
+    background-color: #002147; /* Oxford Blue */
     color: white;
-    padding: 20px;
+    padding: 10px 20px; /* Reduced padding */
 }
 
 header a {
