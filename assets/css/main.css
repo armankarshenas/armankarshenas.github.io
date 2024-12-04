@@ -1,17 +1,28 @@
-/* Navigation Links - White color */
+/* General Link Styles */
+a {
+    color: #e8491d; /* Orange color for all links except the ones in the navigation bar */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e8491d; /* Keep the orange color on hover */
+    text-decoration: underline; /* Optional underline effect on hover */
+}
+
+/* Links in the Navigation Bar */
 header a {
     color: #ffffff; /* White text for links in the navigation bar */
     text-decoration: none; /* Remove underline */
 }
 
 header a:hover {
-    color: #e8491d; /* Highlight color on hover */
+    color: #e8491d; /* Highlight color on hover for nav links */
     text-decoration: underline; /* Optional underline effect on hover */
 }
 
 /* Existing Styles */
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif; /* Change to your preferred font */
     line-height: 1.6;
     color: #333;
     margin: 0;
@@ -60,12 +71,12 @@ header li {
 }
 
 header a {
-    color: #ffffff; /* White text for links */
+    color: #ffffff; /* White text for links in the navigation bar */
     text-decoration: none;
 }
 
 header a:hover {
-    color: #e8491d; /* Highlight color on hover */
+    color: #e8491d; /* Highlight color on hover for nav links */
 }
 
 /* Footer Styles */
@@ -114,6 +125,8 @@ details li a {
 details li a:hover {
   text-decoration: underline;
 }
+
+/* Post Styles - End of main.css */
 .post {
     margin-bottom: 30px;
     padding: 20px;
