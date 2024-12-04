@@ -7,19 +7,12 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
 </head>
 <body>
-    <header>
-        <h1>{{ site.title }}</h1>
-        {% include navigation.html %}
-    </header>
+    {% include header.html %} <!-- This should only be included here if not in home layout -->
     
     <main>
         {{ content }}
     </main>
-    
-    {% include footer.html %}
 
-    {% if jekyll.environment == "production" %}
-    <!-- Add any production-only scripts or analytics here -->
-    {% endif %}
+    {% include footer.html %}
 </body>
 </html>
