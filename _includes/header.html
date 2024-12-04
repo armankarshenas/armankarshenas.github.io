@@ -1,12 +1,17 @@
 <header>
-    <h1>{{ site.title }}</h1>
-    <nav>
+  <div class="container">
+    <div class="header-content">
+      <img src="{{ site.baseurl }}/assets/images/headshot.jpg" alt="Dr. Arman Karshenas" class="profile-photo">
+      <h1>{{ page.title }}</h1> <!-- Use site.title or page.title based on preference -->
+      <nav>
         <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/publications">Publications</a></li>
-            <li><a href="/teaching">Teaching</a></li>
-            <li><a href="/resume">Resume</a></li>
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+          <li><a href="{{ site.baseurl }}/about">About</a></li>
+          <li><a href="{{ site.baseurl }}/publications">Publications</a></li>
+          <li><a href="{{ site.baseurl }}/teaching">Teaching</a></li>
+          <li><a href="{{ site.baseurl }}/resume">Resume</a></li>
         </ul>
-    </nav>
+      </nav>
+    </div>
+  </div>
 </header>
