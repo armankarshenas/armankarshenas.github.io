@@ -12,7 +12,7 @@ I am Dr. Arman Karshenas, a researcher, data scientist, and entrepreneur with a 
 
 I have had the opportunity to work in both academia and industry, bridging the gap between scientific research and real-world applications.
 
-- ** Data Scientist / ML Engineer Intern** | [Pivotal Bioventures](https://www.pivotalbioventures.com) (Jan 2024 – Aug 2024)  
+- **Data Scientist / ML Engineer Intern** | [Pivotal Bioventures](https://www.pivotalbioventures.com) (Jan 2024 – Aug 2024)  
   Applied machine learning and data science methods to drug development and clinical trials. My work focused on building predictive models to improve decision-making processes for biotech investments, analyzing large datasets to derive actionable insights, and optimizing the tools used for due diligence in mergers and acquisitions (M&A).
   
 
@@ -37,15 +37,13 @@ genome-wide association tests on *cichlid* fish samples in [Prof. Richard Durbin
 
 ### Education
 
-- **Ph.D. in Biophysics** | University of California, Berkeley (Aug 2021 – Dec 2024)  
+- **Ph.D. in Biophysics** | *University of California, Berkeley* (Aug 2021 – Dec 2024)  
   *Thesis:* On the Computational & Experimental Dissection of Developmental Enhancers' Functionality in Gene Expression Regulation.  
-  Awarded Berkeley Graduate Chancellor’s Fellowship, Carl and Betty Helmholtz Gateway Fellowship. Finalist for the Knight Hennessy scholarship.  
-
-- **Master of Philosophy in Biological Sciences** (First Class Honours, GPA 4.0) | University of Cambridge (Sep 2020 – Aug 2021)  
+ 
+- **Master of Philosophy in Biological Sciences** (First Class Honours, GPA 4.0) | *University of Cambridge* (Sep 2020 – Aug 2021)  
   *Thesis:* Quantitative Analysis of Cichlid Head Morphology from Micro-CT Data for Genetic Studies.  
-  Awarded the Mann Studentship for the science (Trinity Hall).  
 
-- **Bachelor of Arts in Electrical Engineering** (First Class Honours, GPA 4.0) | University of Oxford (Oct 2017 – Jul 2020)  
+- **Bachelor of Arts in Electrical Engineering** (First Class Honours, GPA 4.0) | *University of Oxford* (Oct 2017 – Jul 2020)  
   Graduated top of the class with 167 students.
 
 ### Skills
@@ -58,30 +56,31 @@ genome-wide association tests on *cichlid* fish samples in [Prof. Richard Durbin
 
 ### Awards and Achievements
 
-- **(2024)**: **[St. Jude Hospital National Graduate Student Symposium (NGSS) Invited Speaker]**(https://www.stjude.org/education-training/predoctoral-training/graduate-students/national-graduate-student-symposium-ngss.html), *St. Jude Hospital*  
-- **2022**: **Professor Phyllis B. Blair Graduate Fellowship ($329k)**, *University of California, Berkeley*.  
-- **2021**: **[Carl and Betty Helmholz Gateway Fellowship ($30k)](https://ihouse.berkeley.edu/admissions/i-house-financial-aid/gateway-fellowship-program)**,   
-- **2020**: **Fully-funded Research Studentship**, Trinity Hall, Cambridge  
-- **2020**: **MPhil Studentship**, Department of Genetics, University of Cambridge  
-- **2018**: **Gold Medal**, International Genetically-Engineered Machines (IGEM) Competition (Boston, USA)  
-- **2018**: **Prosser Prize** for Outstanding Academic Performance, University of Oxford  
-- **2018**: **Summer Undergraduate Research Fellowship (SURF)**, California Institute of Technology  
-- **2018**: **Engineering Undergraduate Research Opportunity Program Fellowship**, University of Oxford  
-- **2018**: **Edgell Sheppee Prize** for Best Performance in Practical Work, University of Oxford  
+- **(2024)**: **[St. Jude Hospital National Graduate Student Symposium (NGSS) Invited Speaker](https://www.stjude.org/education-training/predoctoral-training/graduate-students/national-graduate-student-symposium-ngss.html)**, *St. Jude Hospital*
+- **2022**: **Professor Phyllis B. Blair Graduate Fellowship ($329k)**, *University of California, Berkeley*  
+- **2021**: **[Carl and Betty Helmholz Gateway Fellowship ($30k)](https://ihouse.berkeley.edu/admissions/i-house-financial-aid/gateway-fellowship-program)**
+- **2021**: **[Knight-Hennessy Scholarship finalist](https://knight-hennessy.stanford.edu)**, *Stanford University]*
+- **2021**: **London Crick Institute Ph.D. fellowship** (declined)
+- **2021**: **Columbia University Systems biology Ph.D. fellowship** (declined)
+- **2021**: **ETH Zurich Ph.D. fellowship** (declined)
+- **2021**: **Cambridge University BHF non-clinical Ph.D. studentship** (declined)
+- **2020**: **[Mann Studentship for Science (£34,220)](https://www.student-funding.cam.ac.uk/fund/trinity-hall-mann-studentship-2023#award-details)**, *Trinity Hall, Cambridge*  
+- **2020**: **MPhil Studentship (£10,000)**, *Department of Genetics, University of Cambridge*
+- **2020**: **[Gates Scholarship finalist]](https://www.gatescambridge.org/programme/the-scholarship/)**, *University of Cambridge*
+- **2019**: **[Summer Undergraduate Research Fellowship (SURF)]([https://sfp.caltech.edu/undergraduate-research/programs/surf](https://www.balliol.ox.ac.uk/news/2019/september/student-awarded-summer-undergraduate-research-fellowship-at-caltech)**, *California Institute of Technology*  
+- **2018**: **[Gold Medal](https://www.balliol.ox.ac.uk/news/2018/november/engsci-student-wins-best-therapeutics-project-with-oxford-team)**, *International Genetically-Engineered Machines (IGEM) Competition* 
+- **2018**: **[Lubbock scholarship, Prosser Prize, and Edgell Sheppee Prize (£2,000)}](https://www.balliol.ox.ac.uk/current-members/scholarship-and-exhibition-holders)** for outstanding academic performance, *University of Oxford*
 - **2017**: **Bronze Medal**, Iran National Swimming Championships  
-- **2017**: **Member of Iran National Swimming Team**  
 - **2016**: **Gold Medal**, UK Mathematics Challenge and Mathematics Kangaroo Competition  
-- **2016**: **International Excellence Undergraduate Scholarship**, University of Manchester  
 
-- **2021** Crick Institute Ph.D. Fellowship** (declined).  
-- **Gold Medal** in International Genetically-Engineered Machines (IGEM) Competition (2018).  
-- **Prosser Prize** for outstanding academic performance, University of Oxford.
 
 ### Teaching Experience
 
-- **Instructor & Teaching Assistant** | UC Berkeley  
-  Taught courses such as "Data Science for Biophysics" and "Machine Learning Applications in Biology."  
-  [UC Berkeley](https://www.berkeley.edu)
+- **Fall 2023 [Quantitative Biology Bootcamp](https://mcb.berkeley.edu/grad/quantitative-biology-bootcamp/2023)** -- Instructor & Teaching Assistant | *UC Berkeley*  
+- **Fall 2022 **
+- **Spring 2022 **
+- ** Michaelmas/Lent/Easter 2020-2021**
+- **Lent2021** 
 
 ### Volunteer Work
 
