@@ -30,7 +30,7 @@ Below are the courses I have recently taught:
 - **{{ course.name }}**  
   *{{ course.institution }}*  
   *{{ course.semester }}*
-  [Link to course]({{ course.link }})
+  <div><a href="{{ course.link }}" target="_blank">Link to course</a></div>
 {% endfor %}
 
 ## Recent Posts
