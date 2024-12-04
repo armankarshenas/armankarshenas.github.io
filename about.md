@@ -13,36 +13,36 @@ I am Dr. Arman Karshenas, a researcher, data scientist, and entrepreneur with a 
 I have had the opportunity to work in both academia and industry, bridging the gap between scientific research and real-world applications.
 
 - **Data Scientist / ML Engineer Intern** | [Pivotal Bioventures](https://www.pivotalbioventures.com) (Jan 2024 – Aug 2024)  
-  Applied machine learning and data science methods to drug development and clinical trials. My work focused on building predictive models to improve decision-making processes for biotech investments, analyzing large datasets to derive actionable insights, and optimizing the tools used for due diligence in mergers and acquisitions (M&A).
+  -  Applied machine learning and data science methods to drug development and clinical trials. My work focused on building predictive models to improve decision-making processes for biotech investments, analyzing large datasets to derive actionable insights, and optimizing the tools used for due diligence in mergers and acquisitions (M&A).
   
 - **Fellow** | Pear VC — [Persian Founder Circle](https://pear.vc/communities/persian-founder-circles/) (Aug 2024 – Nov 2024)  
-  Participated in a fellowship designed to support Persian founders with entrepreneurship insights.
+  -  Participated in a fellowship designed to support Persian founders with entrepreneurship insights.
 
 ### Research Experience
 
 My research spans several areas of biophysics, machine learning, and computational biology, with an emphasis on applying AI models to biological datasets.
 
-- **Graduate Student Researcher** | UC Berkeley (May 2022 – Dec 2024)  
-  Researching genome regulation from the sequence space of enhancers in [Prof. Garcia’s lab](http://garcialab.berkeley.edu), combining computational and experimental methods.
+-  **Graduate Student Researcher** | UC Berkeley (May 2022 – Dec 2024)  
+  -  Researching genome regulation from the sequence space of enhancers in [Prof. Garcia’s lab](http://garcialab.berkeley.edu), combining computational and experimental methods.
 
-- **PhD Rotation Projects** | UC Berkeley  
+-  **PhD Rotation Projects** | UC Berkeley  
   - Developed assays for viral detection of influenza strains and genome re-assortment in [Fletcher’s lab](https://fletchlab.berkeley.edu).  
   - Created computational pipelines for protein folding studies in the [Marqusee lab](https://zebra.berkeley.edu).  
   - Studied transcription variability between sister chromatin in developing *D. melanogaster* embryos in [Garcia lab](http://garcialab.berkeley.edu).
 
 - **MPhil Project** | University of Cambridge (Oct 2020 – Jul 2021)  
-  Developed a novel deep learning pipeline to extract morphological measurements from micro-CT scans and conducted genome-wide association tests on *cichlid* fish samples in [Prof. Richard Durbin's group](https://www.gen.cam.ac.uk/research-groups/research-groups/durbin). 
+  -  Developed a novel deep learning pipeline to extract morphological measurements from micro-CT scans and conducted genome-wide association tests on *cichlid* fish samples in [Prof. Richard Durbin's group](https://www.gen.cam.ac.uk/research-groups/research-groups/durbin). 
 
 ### Education
 
 - **Ph.D. in Biophysics** | *University of California, Berkeley* (Aug 2021 – Dec 2024)  
-  *Thesis:* On the Computational & Experimental Dissection of Developmental Enhancers' Functionality in Gene Expression Regulation.  
+  -  *Thesis:* On the Computational & Experimental Dissection of Developmental Enhancers' Functionality in Gene Expression Regulation.  
 
 - **Master of Philosophy in Biological Sciences** (First Class Honours, GPA 4.0) | *University of Cambridge* (Sep 2020 – Aug 2021)  
-  *Thesis:* Quantitative Analysis of Cichlid Head Morphology from Micro-CT Data for Genetic Studies.  
+  -  *Thesis:* Quantitative Analysis of Cichlid Head Morphology from Micro-CT Data for Genetic Studies.  
 
 - **Bachelor of Arts in Electrical Engineering** (First Class Honours, GPA 4.0) | *University of Oxford* (Oct 2017 – Jul 2020)  
-  Graduated top of the class with 167 students.
+  -  Graduated top of the class with 167 students.
 
 ### Skills
 
@@ -75,16 +75,16 @@ My research spans several areas of biophysics, machine learning, and computation
 
 I have actively participated in various academic and professional events, where I have presented my research and contributed to discussions in the fields of biophysics and machine learning.
 
-- **2024**: **St. Jude Hospital National Graduate Student Symposium (NGSS)**, *St. Jude Hospital, Memphis, TN, USA* (Mar 26-28)| talk & poster presentation
-- **2024**: **Systesm Biology: Global Regulation of Gene Expression**, *Cold Spring Harbor Laboratory, Long Island, NY, USA* (Mar 13-16) | poster presentation 
-- **2023**: **Biophysics Retreat**, *University of California, Berkeley, CA, USA* (Oct 27-29) | talk & poster presentation
-- **2023**: **Machine Learning Workshop**, *Innovative Genomics Institute (IGI), University of California, Berkeley, CA, USA* (Jun 29) | talk presentation
-- **2023**: **Biophysics Symposium**, *University of California San Francisco, San Francisco, CA, USA* (Jun 21) | poster presentation
-- **2020**: **The 6th International Conference of Quantitative Genetics (ICQG)**, *Virtual* (Nov 2-12) | participation  
-- **2020**: **International Federation of Automatic Control (IFAC) World Congress**, *Berlin, Germany* (Jul 11-17) | talk presentation 
-- **2019**: **International Workshop on Control Engineering and Synthetic Biology**, *University of Oxford, Oxford, UK* (Sep 9-11) | poster presentation
-- **2018**: **Synthetic Biology Leadership Council (SBLC)**, *Royal Academy of Engineering, London, UK* (Nov 21) | talk presentation 
-- **2018**: **IGEM 2018**, *Boston, US* (Oct 24-28) | talk presentation
+-   **2024**: **St. Jude Hospital National Graduate Student Symposium (NGSS)**, *St. Jude Hospital, Memphis, TN, USA* (Mar 26-28)| talk & poster presentation
+-   **2024**: **Systesm Biology: Global Regulation of Gene Expression**, *Cold Spring Harbor Laboratory, Long Island, NY, USA* (Mar 13-16) | poster presentation 
+-   **2023**: **Biophysics Retreat**, *University of California, Berkeley, CA, USA* (Oct 27-29) | talk & poster presentation
+-   **2023**: **Machine Learning Workshop**, *Innovative Genomics Institute (IGI), University of California, Berkeley, CA, USA* (Jun 29) | talk presentation
+-   **2023**: **Biophysics Symposium**, *University of California San Francisco, San Francisco, CA, USA* (Jun 21) | poster presentation
+-   **2020**: **The 6th International Conference of Quantitative Genetics (ICQG)**, *Virtual* (Nov 2-12) | participation  
+-   **2020**: **International Federation of Automatic Control (IFAC) World Congress**, *Berlin, Germany* (Jul 11-17) | talk presentation 
+-   **2019**: **International Workshop on Control Engineering and Synthetic Biology**, *University of Oxford, Oxford, UK* (Sep 9-11) | poster presentation
+-   **2018**: **Synthetic Biology Leadership Council (SBLC)**, *Royal Academy of Engineering, London, UK* (Nov 21) | talk presentation 
+-   **2018**: **IGEM 2018**, *Boston, US* (Oct 24-28) | talk presentation
 
 ### Teaching Experience
 
