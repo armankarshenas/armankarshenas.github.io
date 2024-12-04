@@ -4,10 +4,11 @@ layout: default
 
 <header>
   <div class="container">
-    <div id="branding">
-      <img src="{{ site.baseurl }}/assets/images/headshot.jpg" alt="Dr. Arman Karshenas" class="profile-photo">
+    <div class="header-content">
+      <img src="{{ site.baseurl }}/assets/images/your-photo.jpg" alt="Dr. Arman Karshenas" class="profile-photo">
+      <h1>{{ page.title }}</h1>
+      {% include navigation.html %}
     </div>
-    {% include navigation.html %}
   </div>
 </header>
 
