@@ -10,7 +10,7 @@ permalink: /publications/
   <div class="publication-entry">
     <p>
       <strong>{{ publication.authors }}</strong> ({{ publication.year }}). 
-      "{{ publication.title }}." *{{ publication.journal }}*{% if publication.doi %}, [DOI: {{ publication.doi }}](https://doi.org/{{ publication.doi }}){% endif %}{% if publication.url %}, [Link]({{ publication.url }}){% endif %}
+      <strong><i>{{ publication.title }}.</i></strong> <i>{{ publication.journal }}</i>{% if publication.doi %}, <a href="({{ publication.doi }})">[doi: {{ publication.doi }}]</a>{% endif %}{% if publication.url %}, [Link]({{ publication.url }}){% endif %}
     </p>
   </div>
 {% endfor %}
