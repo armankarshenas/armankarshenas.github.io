@@ -2,19 +2,10 @@
 layout: default
 ---
 
-<header>
-  <div class="container">
-    <div class="header-content">
-      <img src="{{ site.baseurl }}/assets/images/headshot.jpg" alt="Dr. Arman Karshenas" class="profile-photo">
-      <h1>{{ page.title }}</h1>
-      {% include navigation.html %}
-    </div>
-  </div>
-</header>
-
 <main>
-  <div class="content">
-    {{ content }}
-  </div>
+    <div class="content">
+        {{ content }} <!-- This will render the content from index.md -->
+    </div>
 </main>
 
+{% include footer.html %}
