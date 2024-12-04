@@ -25,7 +25,6 @@ My research spans several areas of biophysics, machine learning, and computation
 
 - **Graduate Student Researcher** | UC Berkeley (May 2022 – Dec 2024)  
   Researching genome regulation from the sequence space of enhancers in [Prof. Garcia’s lab](http://garcialab.berkeley.edu), combining computational and experimental methods.  
-
 - **PhD Rotation Projects** | UC Berkeley  
   - Developed assays for viral detection of influenza strains and genome re-assortment in [Fletcher’s lab](https://fletchlab.berkeley.edu).  
   - Created computational pipelines for protein folding studies in the [Marqusee lab](https://zebra.berkeley.edu).  
@@ -66,7 +65,7 @@ genome-wide association tests on *cichlid* fish samples in [Prof. Richard Durbin
 - **2021**: **Cambridge University BHF non-clinical Ph.D. studentship** (declined)
 - **2020**: **[Mann Studentship for Science (£34,220)](https://www.student-funding.cam.ac.uk/fund/trinity-hall-mann-studentship-2023#award-details)**, *Trinity Hall, Cambridge*  
 - **2020**: **MPhil Studentship (£10,000)**, *Department of Genetics, University of Cambridge*
-- **2020**: **[Gates Scholarship finalist]](https://www.gatescambridge.org/programme/the-scholarship/)**, *University of Cambridge*
+- **2020**: **[Gates Scholarship finalist](https://www.gatescambridge.org/programme/the-scholarship/)**, *University of Cambridge*
 - **2019**: **[Summer Undergraduate Research Fellowship (SURF)](https://www.balliol.ox.ac.uk/news/2019/september/student-awarded-summer-undergraduate-research-fellowship-at-caltech)**, *California Institute of Technology*  
 - **2018**: **[Gold Medal](https://www.balliol.ox.ac.uk/news/2018/november/engsci-student-wins-best-therapeutics-project-with-oxford-team)**, *International Genetically-Engineered Machines (IGEM) Competition* 
 - **2018**: **[Lubbock scholarship, Prosser Prize, and Edgell Sheppee Prize (£2,000)}](https://www.balliol.ox.ac.uk/current-members/scholarship-and-exhibition-holders)** for outstanding academic performance, *University of Oxford*
@@ -75,6 +74,7 @@ genome-wide association tests on *cichlid* fish samples in [Prof. Richard Durbin
 
 
 ### Teaching Experience
+
 - **Fall 2023 [Quantitative Biology Bootcamp](https://mcb.berkeley.edu/grad/quantitative-biology-bootcamp/2023)** -- Instructor & Teaching Assistant | *UC Berkeley*  
 - **Fall 2022 [Quantitative Biology Bootcamp](https://mcb.berkeley.edu/grad/quantitative-biology-bootcamp/2022)** -- Instructor & Teaching Assistant | *UC Berkeley*
 - **Spring 2022 [Physics 8B]** -- Instructor & Teaching Assistant | *UC Berkeley*  
