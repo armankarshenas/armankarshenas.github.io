@@ -33,6 +33,15 @@ Below are the courses I have recently taught:
   [Link to course]({{ course.link }})
 {% endfor %}
 
+## Recent Posts
+Here are my most recent blog posts:
+
+{% for post in site.posts limit:3 %}
+- **[{{ post.title }}]({{ post.url }})**  
+  *Posted on {{ post.date | date: "%B %d, %Y" }}*  
+  {{ post.excerpt }}
+{% endfor %}
+
 ## Contact
 
 Feel free to reach out for collaborations or inquiries:
