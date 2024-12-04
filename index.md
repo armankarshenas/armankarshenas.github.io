@@ -3,14 +3,15 @@ layout: home
 title: Arman Karshenas, Ph.D.
 ---
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; width: 100%;">
     <img src="{{ site.baseurl }}/assets/images/headshot.jpg" alt="Dr. Arman Karshenas" class="profile-photo" style="width: 120px; height: 120px; border-radius: 50%; margin-right: 20px;">
-    <h1>Welcome to my Personal Webpage!</h1>
+    <div>
+        <h1>Welcome to my Personal Webpage!</h1>
+        <p>
+            I am a researcher, data scientist, and entrepreneur with expertise in applying machine learning to biological data, particularly in genomics, biophysics, and life sciences. I have a strong academic background, having completed an MPhil from the University of Cambridge and a BA from the University of Oxford. I am currently finishing my PhD at UC Berkeley, where I work on understanding enhancer functions in fruit flies and exploring how generative AI models can map enhancer sequences to spatial gene expression patterns.
+        </p>
+    </div>
 </div>
-
-# Welcome to my Personal Webpage!
-
-I am a researcher, data scientist, and entrepreneur with expertise in applying machine learning to biological data, particularly in genomics, biophysics, and life sciences. I have a strong academic background, having completed an MPhil from the University of Cambridge and a BA from the University of Oxford. I am currently finishing my PhD at UC Berkeley, where I work on understanding enhancer functions in fruit flies and exploring how generative AI models can map enhancer sequences to spatial gene expression patterns.
 
 ## Education
 
