@@ -11,7 +11,7 @@ permalink: /posts/
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <p><em>Posted on {{ post.date | date: "%B %d, %Y" }}</em></p>
     <div class="post-content">
-      {{ post.content }}
+      {{ post.long_description }}
     </div>
   </article>
 {% endfor %}
