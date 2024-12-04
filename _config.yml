@@ -56,7 +56,7 @@ header_pages:
   - about.md
   - publications.md
   - teaching.md
-  - resume.md
+  - posts.md
 
 # Customization
 show_excerpts: true  # Set to false if you don't want excerpts on the homepage
