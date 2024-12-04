@@ -36,9 +36,10 @@ header li {
 }
 
 header .profile-photo {
-    width: 100px; /* Adjust size as needed */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 50%; /* Circular photo */
+    width: 180px; /* Adjust size as needed */
+    height: 180px; /* Ensure height matches width */
+    border-radius: 50%; /* Makes it a circle */
+    margin-right: 20px;
 }
 
 footer {
