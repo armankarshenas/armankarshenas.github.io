@@ -56,7 +56,7 @@ genome-wide association tests on *cichlid* fish samples in [Prof. Richard Durbin
 
 ### Awards and Achievements
 
-- **(2024)**: **[St. Jude Hospital National Graduate Student Symposium (NGSS) Invited Speaker](https://www.stjude.org/education-training/predoctoral-training/graduate-students/national-graduate-student-symposium-ngss.html)**, *St. Jude Hospital*
+- **2024**: **[St. Jude Hospital National Graduate Student Symposium (NGSS) Invited Speaker](https://www.stjude.org/education-training/predoctoral-training/graduate-students/national-graduate-student-symposium-ngss.html)**, *St. Jude Hospital*
 - **2022**: **Professor Phyllis B. Blair Graduate Fellowship ($329k)**, *University of California, Berkeley*  
 - **2021**: **[Carl and Betty Helmholz Gateway Fellowship ($30k)](https://ihouse.berkeley.edu/admissions/i-house-financial-aid/gateway-fellowship-program)**
 - **2021**: **[Knight-Hennessy Scholarship finalist](https://knight-hennessy.stanford.edu)**, *Stanford University]*
@@ -67,7 +67,7 @@ genome-wide association tests on *cichlid* fish samples in [Prof. Richard Durbin
 - **2020**: **[Mann Studentship for Science (£34,220)](https://www.student-funding.cam.ac.uk/fund/trinity-hall-mann-studentship-2023#award-details)**, *Trinity Hall, Cambridge*  
 - **2020**: **MPhil Studentship (£10,000)**, *Department of Genetics, University of Cambridge*
 - **2020**: **[Gates Scholarship finalist]](https://www.gatescambridge.org/programme/the-scholarship/)**, *University of Cambridge*
-- **2019**: **[Summer Undergraduate Research Fellowship (SURF)]([https://sfp.caltech.edu/undergraduate-research/programs/surf](https://www.balliol.ox.ac.uk/news/2019/september/student-awarded-summer-undergraduate-research-fellowship-at-caltech)**, *California Institute of Technology*  
+- **2019**: **[Summer Undergraduate Research Fellowship (SURF)](https://www.balliol.ox.ac.uk/news/2019/september/student-awarded-summer-undergraduate-research-fellowship-at-caltech)**, *California Institute of Technology*  
 - **2018**: **[Gold Medal](https://www.balliol.ox.ac.uk/news/2018/november/engsci-student-wins-best-therapeutics-project-with-oxford-team)**, *International Genetically-Engineered Machines (IGEM) Competition* 
 - **2018**: **[Lubbock scholarship, Prosser Prize, and Edgell Sheppee Prize (£2,000)}](https://www.balliol.ox.ac.uk/current-members/scholarship-and-exhibition-holders)** for outstanding academic performance, *University of Oxford*
 - **2017**: **Bronze Medal**, Iran National Swimming Championships  
@@ -75,22 +75,18 @@ genome-wide association tests on *cichlid* fish samples in [Prof. Richard Durbin
 
 
 ### Teaching Experience
-
 - **Fall 2023 [Quantitative Biology Bootcamp](https://mcb.berkeley.edu/grad/quantitative-biology-bootcamp/2023)** -- Instructor & Teaching Assistant | *UC Berkeley*  
-- **Fall 2022 **
-- **Spring 2022 **
-- ** Michaelmas/Lent/Easter 2020-2021**
-- **Lent2021** 
+- **Fall 2022 [Quantitative Biology Bootcamp](https://mcb.berkeley.edu/grad/quantitative-biology-bootcamp/2022)** -- Instructor & Teaching Assistant | *UC Berkeley*
+- **Spring 2022 [Physics 8B]** -- Instructor & Teaching Assistant | *UC Berkeley*  
+- **Michaelmas/Lent/Easter 2020-2021 [Mathematical Biology](https://www.biology.cam.ac.uk/undergrads/nst/courses/mb)** -- Instructor & Supervisor | *Wolfson college, Trinity Hall, Hughes Hall, University of Cambridge*  
+- **Lent2021 [Computational Genomics]** -- Instructor & Teaching Assistant | *Isaac Newton Mathematics Institute, University of Cambridge* 
 
 ### Volunteer Work
-
-- **President, Iranian Student Association at UC Berkeley** (Aug 2021 – Present)  
+- **Volunteer Math Teacher at San Quentin Prison** (May 2024 - Aug 2024)  
+- **President, Iranian Student Association at UC Berkeley** (Aug 2021 – Mar 2024)  
   Organizing academic, social, and professional events for Iranian graduate students.  
   [ISAA](https://callink.berkeley.edu/organization/iranianstudentallianceinamerica)
 
-- **Founder, TABASOM** — Charity in collaboration with Tehran University Medical School.  
-- **Founder, covidfarsi.com** — A platform providing COVID-19 data for Persian-speaking communities.
-
 ### Contact
 
-For a full list of my professional accomplishments and publications, please refer to my [Resume](asset/documents/Arman_Karshenas_Resume.pdf).
+For a full list of my professional accomplishments and publications, please refer to my [resume](asset/documents/Arman_Karshenas_resume.pdf).
