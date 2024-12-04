@@ -2,8 +2,12 @@
 layout: home
 ---
 
-# Welcome to My GitHub Pages Site
+# Welcome to Dr. Arman Karshenas's Website
 
-This is the home page of my awesome website. Feel free to explore and learn more about me and my projects!
+I am a researcher and educator specializing in [Your Field]. Explore my site to learn about my research, publications, and teaching materials.
 
-## Recent Posts
+## Recent Publications
+[List your most recent publications here]
+
+## Current Courses
+[List your current courses here]

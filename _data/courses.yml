@@ -1,0 +1,9 @@
+- name: "Course Name"
+  code: "CS101"
+  semester: "Fall 2023"
+  description: "Brief description of the course"
+
+- name: "Another Course"
+  code: "CS202"
+  semester: "Spring 2024"
+  description: "Brief description of another course"

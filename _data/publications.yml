@@ -1,0 +1,11 @@
+- title: "Your Paper Title"
+  authors: "Karshenas, A., et al."
+  journal: "Journal Name"
+  year: 2023
+  doi: "10.1234/example.doi"
+
+- title: "Another Paper Title"
+  authors: "Karshenas, A., et al."
+  conference: "Conference Name"
+  year: 2022
+  url: "https://example.com/paper"
