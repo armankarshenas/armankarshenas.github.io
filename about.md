@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Arman Karshenas, Ph.D.
 
-I am Dr. Arman Karshenas, a researcher, data scientist, and entrepreneur with a passion for leveraging machine learning to solve complex problems in biophysics, genomics, and life sciences. With a diverse academic background and practical experience, I have contributed to advancements in computational biology, data-driven insights for drug development, and applications of artificial intelligence in biological research.
+I am Dr. Arman Karshenas, a researcher, data scientist, and entrepreneur with a passion for leveraging machine learning to solve complex problems in biophysics, genomics, and life sciences. With a diverse academic background and practical experience, I have contributed to advancements in computational biology, data-driven insights for drug development, and applications of artificial intelligence in biological research. For a full list of my professional, and academic accomplishments and publications, please refer to my [resume](asset/documents/Arman_Karshenas_resume.pdf).
 
 ### Industry Experience
 
