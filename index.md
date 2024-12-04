@@ -29,7 +29,7 @@ Below are the courses I have recently taught:
 {% for course in site.data.courses limit:3 %}
 - **{{ course.title }}**  
   *{{ course.institution }}*  
-  *{{ course.year }}*
+  *{{ course.semester }}*
 {% endfor %}
 
 ## Contact
