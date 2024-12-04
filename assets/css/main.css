@@ -10,39 +10,35 @@ body {
     width: 70%; /* Set content width to 70% */
     margin: auto; /* Center align */
 }
-
-/* Header Styles */
 header {
     background-color: #002147; /* Oxford Blue */
     color: white;
     padding: 10px 20px; /* Reduced padding for height */
 }
 
+.container {
+    width: 70%; /* Set content width to 70% */
+    margin: auto; /* Center align */
+}
+
 .header-content {
     display: flex;
+    justify-content: space-between; /* Aligns items to the left and right */
     align-items: center; /* Aligns items vertically */
 }
 
 .header-content h1 {
-    margin: 0 20px; /* Space between title and photo */
+    margin: 0; /* Remove default margins around the title */
 }
 
-/* Profile Photo Styles */
-.profile-photo {
-    width: 120px; /* Adjust size as needed */
-    height: 120px; /* Ensure height matches width */
-    border-radius: 50%; /* Makes it a circle */
-    margin-right: 20px; /* Space between photo and title/navigation */
-}
-
-/* Navigation Styles */
-header nav {
-    float: right;
+nav {
+    margin-left: auto; /* This will push the nav items to the right */
 }
 
 header ul {
     list-style-type: none;
     padding: 0;
+    margin: 0;
 }
 
 header li {
@@ -58,7 +54,6 @@ header a {
 header a:hover {
     color: #e8491d; /* Highlight color on hover */
 }
-
 /* Footer Styles */
 footer {
     padding: 20px;
