@@ -4,7 +4,6 @@ title: Posts
 permalink: /posts/
 ---
 
-## All Posts
 
 {% for post in site.posts %}
   <article class="post">
