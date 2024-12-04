@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<header>
+  <div class="container">
+    <div id="branding">
+      <img src="{{ site.baseurl }}/assets/images/your-photo.jpg" alt="Dr. Arman Karshenas" class="profile-photo">
+      <h1>{{ page.title }}</h1>
+    </div>
+    {% include navigation.html %}
+  </div>
+</header>
+
+<main>
+  <div class="content">
+    {{ content }}
+  </div>
+</main>
+
+<footer>
+  <p>&copy; {{ site.time | date: '%Y' }} Dr. Arman Karshenas. All rights reserved.</p>
+</footer>
